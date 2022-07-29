@@ -50,7 +50,7 @@
       background: linear-gradient(to right, var(--main-color) 50%, transparent);
       margin-left: 5px;
     }
-    >span {
+    > span {
       max-width: 100%;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -60,7 +60,7 @@
     &:nth-child(6),
     &:nth-child(13),
     &:nth-child(25) {
-      +%tabBarSeparator {
+      + %tabBarSeparator {
         display: none;
       }
     }

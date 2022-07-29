@@ -118,5 +118,7 @@ dist
 .pnp.*
 
 # ClearVision build & test files
-public/
+
 test/
+
+.DS_Store

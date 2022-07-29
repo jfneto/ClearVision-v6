@@ -101,37 +101,37 @@
 
 // AUTOMOD
 .editCard-K9Q9mb {
-	background-color: hsla(0, 0%, 0%, .4);
+  background-color: hsla(0, 0%, 0%, 0.4);
   &.active-Xi2rnV,
   &.active-Xi2rnV.toggled-35JcVc {
-    background-color: hsla(0, 0%, 0%, .4);
+    background-color: hsla(0, 0%, 0%, 0.4);
   }
 }
 .ruleIconContainer-dXW56- {
-  background-color: hsla(0, 0%, 100%, .1);
+  background-color: hsla(0, 0%, 100%, 0.1);
 }
 .ruleIcon-jIriNN {
   color: #fff;
 }
 .actionContainer-EzNGrb {
-	background-color: hsla(0, 0%, 100%, .1);
+  background-color: hsla(0, 0%, 100%, 0.1);
 }
 .actionIcon-2VtFPq,
 .actionTextHeader-yeCKjC {
-	color: hsla(0, 0%, 100%, .9) !important;
+  color: hsla(0, 0%, 100%, 0.9) !important;
 }
 .stepCountIcon-1A2Rxd {
-	background-color: hsla(0, 0%, 100%, .1);
+  background-color: hsla(0, 0%, 100%, 0.1);
 }
 .keywordListContainer-9ux8nU,
 .actionContainer-2krsiT {
-	background-color: hsla(0, 0%, 0%, .4);
+  background-color: hsla(0, 0%, 0%, 0.4);
 }
 .keywordsTextArea-3QkFoG {
-	color: var(--text-normal);
-	background-color: hsla(0, 0%, 100%, 0.07);
-	border: none;
-	box-shadow: 0 0 0 2px hsla(0, 0%, 100%, 0.09);
+  color: var(--text-normal);
+  background-color: hsla(0, 0%, 100%, 0.07);
+  border: none;
+  box-shadow: 0 0 0 2px hsla(0, 0%, 100%, 0.09);
   &:focus {
     box-shadow: 0 0 2px 2px var(--main-color);
   }
@@ -140,18 +140,17 @@
   }
 }
 .resultsList-2d3x5p {
-	background-color: hsla(0, 0%, 0%, .8);
-	border: 1px solid hsla(0, 0%, 100%, .07);
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  background-color: hsla(0, 0%, 0%, 0.8);
+  border: 1px solid hsla(0, 0%, 100%, 0.07);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .channelRowLabel-3fw5wf,
 .roleLabel-1ML0Dw {
-	background-color: hsla(0, 0%, 100%, .1);
+  background-color: hsla(0, 0%, 100%, 0.1);
 }
 .channelIcon-36DzP5 {
-	color: #fff
+  color: #fff;
 }
-
 
 // AUDIT LOG
 %themeDark {
@@ -299,7 +298,7 @@
     background-color: hsla(0, 0%, 0%, 0.4);
     box-shadow: 0 0 0 1px hsla(0, 0%, 100%, 0.07);
     .selectableItem-3-fmiM.selected-1l_Bxn[style*='background: rgb(114, 137, 218)'] {
-      background-color: $main-color  !important;
+      background-color: $main-color !important;
     }
   }
   .popoutListInput-1w4TxY {
